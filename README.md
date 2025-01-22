@@ -13,7 +13,7 @@ $ source [venv_dir]/activate
 # deactivate
 $ deactivate
 ``` 
-2. Install websockets library.
+2. Install websockets library in the virtual environment.
 ```bash
-$ pip install websockets
+([venv_name]) $ pip install websockets
 ```
