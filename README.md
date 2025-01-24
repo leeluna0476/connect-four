@@ -1,4 +1,6 @@
 # connect-four
+> **Tutorial:** [websockets](https://websockets.readthedocs.io/en/stable/intro/index.html)
+
 WebSocket practice.
 
 ## env settings
