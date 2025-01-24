@@ -1,0 +1,3 @@
+{type: "play", player: "red", column: 3, row: 0}
+{type: "win", player: "red"}
+{type: "error", message: "This slot is full."}
